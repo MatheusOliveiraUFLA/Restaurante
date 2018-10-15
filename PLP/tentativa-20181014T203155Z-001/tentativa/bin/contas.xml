@@ -1,0 +1,36 @@
+<map>
+  <entry>
+    <int>1</int>
+    <Modelos.Conta>
+      <valorTotal>0</valorTotal>
+      <mesa>-1</mesa>
+      <vetor/>
+      <aberta>false</aberta>
+    </Modelos.Conta>
+  </entry>
+  <entry>
+    <int>3</int>
+    <Modelos.Conta>
+      <valorTotal>0</valorTotal>
+      <mesa>-1</mesa>
+      <vetor/>
+      <aberta>false</aberta>
+    </Modelos.Conta>
+  </entry>
+  <entry>
+    <int>5</int>
+    <Modelos.Conta>
+      <valorTotal>59</valorTotal>
+      <mesa>5</mesa>
+      <vetor>
+        <Modelos.Item>
+          <nome>Carne de Sol na Nata</nome>
+          <preco>59</preco>
+          <codigo>1</codigo>
+          <tipo>P</tipo>
+        </Modelos.Item>
+      </vetor>
+      <aberta>true</aberta>
+    </Modelos.Conta>
+  </entry>
+</map>

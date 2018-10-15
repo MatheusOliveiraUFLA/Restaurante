@@ -1,0 +1,11 @@
+<map>
+  <entry>
+    <int>1</int>
+    <Modelos.Item>
+      <nome>arroz</nome>
+      <preco>25</preco>
+      <codigo>1</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+</map>

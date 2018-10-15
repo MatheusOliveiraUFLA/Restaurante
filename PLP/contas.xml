@@ -1,0 +1,29 @@
+<map>
+  <entry>
+    <int>1</int>
+    <Modelos.Conta>
+      <valorTotal>0</valorTotal>
+      <mesa>-1</mesa>
+      <vetor/>
+      <aberta>false</aberta>
+    </Modelos.Conta>
+  </entry>
+  <entry>
+    <int>3</int>
+    <Modelos.Conta>
+      <valorTotal>0</valorTotal>
+      <mesa>-1</mesa>
+      <vetor/>
+      <aberta>false</aberta>
+    </Modelos.Conta>
+  </entry>
+  <entry>
+    <int>5</int>
+    <Modelos.Conta>
+      <valorTotal>0</valorTotal>
+      <mesa>-1</mesa>
+      <vetor/>
+      <aberta>false</aberta>
+    </Modelos.Conta>
+  </entry>
+</map>

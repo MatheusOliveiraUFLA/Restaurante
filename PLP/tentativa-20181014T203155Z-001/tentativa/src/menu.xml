@@ -1,0 +1,173 @@
+<map>
+  <entry>
+    <int>1</int>
+    <Modelos.Item>
+      <nome>Carne de Sol na Nata</nome>
+      <preco>59</preco>
+      <codigo>1</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>2</int>
+    <Modelos.Item>
+      <nome>Filé à Cubana</nome>
+      <preco>48</preco>
+      <codigo>2</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>3</int>
+    <Modelos.Item>
+      <nome>Picanha Assada</nome>
+      <preco>68</preco>
+      <codigo>3</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>4</int>
+    <Modelos.Item>
+      <nome>Costela de Porco no Vinho</nome>
+      <preco>48</preco>
+      <codigo>4</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>5</int>
+    <Modelos.Item>
+      <nome>Peito de Frango Grelhado</nome>
+      <preco>46</preco>
+      <codigo>5</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>6</int>
+    <Modelos.Item>
+      <nome>Filé de Peixe Grelhado</nome>
+      <preco>48</preco>
+      <codigo>6</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>7</int>
+    <Modelos.Item>
+      <nome>Salmão ao Molho de Maracujá</nome>
+      <preco>52</preco>
+      <codigo>7</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>8</int>
+    <Modelos.Item>
+      <nome>Bacalhau Gratinado</nome>
+      <preco>56</preco>
+      <codigo>8</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>9</int>
+    <Modelos.Item>
+      <nome>Bobó de Camarão</nome>
+      <preco>57</preco>
+      <codigo>9</codigo>
+      <tipo>P</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>10</int>
+    <Modelos.Item>
+      <nome>Cheesecake de frutas vermelhas</nome>
+      <preco>25</preco>
+      <codigo>10</codigo>
+      <tipo>S</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>11</int>
+    <Modelos.Item>
+      <nome>Tiramisù de Campagne</nome>
+      <preco>28</preco>
+      <codigo>11</codigo>
+      <tipo>S</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>12</int>
+    <Modelos.Item>
+      <nome>Petit Gateau</nome>
+      <preco>24</preco>
+      <codigo>12</codigo>
+      <tipo>S</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>13</int>
+    <Modelos.Item>
+      <nome>Grand Gateau</nome>
+      <preco>26</preco>
+      <codigo>13</codigo>
+      <tipo>S</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>14</int>
+    <Modelos.Item>
+      <nome>Refrigerante Lata</nome>
+      <preco>6</preco>
+      <codigo>14</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>15</int>
+    <Modelos.Item>
+      <nome>Sucos Naturais</nome>
+      <preco>12</preco>
+      <codigo>15</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>16</int>
+    <Modelos.Item>
+      <nome>Cerveja 600ml</nome>
+      <preco>8</preco>
+      <codigo>16</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>17</int>
+    <Modelos.Item>
+      <nome>Vinho Tinto Suave</nome>
+      <preco>40</preco>
+      <codigo>17</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>18</int>
+    <Modelos.Item>
+      <nome>Vinho Tinto Seco</nome>
+      <preco>56</preco>
+      <codigo>18</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+  <entry>
+    <int>19</int>
+    <Modelos.Item>
+      <nome>Doses</nome>
+      <preco>10</preco>
+      <codigo>19</codigo>
+      <tipo>B</tipo>
+    </Modelos.Item>
+  </entry>
+</map>
